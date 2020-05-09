@@ -1,0 +1,16 @@
+draw() - Function To Analytically Draw The Tic-Tac-Toe Board
+
+checkwin() - Checking The Winning Condition
+
+chngplyr() - Function To Toggle Players
+
+inputcomp(char player[],char ch) - Input Function For User - Computer Mode
+
+input(char player[],char ch) - Input Function For 2 - Player Mode
+
+cmp() - For User - Computer Mode
+
+multplyr() - For 2 - Player Mode
+
+main() - The Main Function (Driver's Code)
+
